@@ -29,19 +29,17 @@ Here in the repository I have attached the computation part of the pipline, the 
 
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4873749021654053/3608940803493665/4555382193918971/latest.html
 
-
 ### Results (Dashboard/Charts):
 
 1- Genre distribution ie. Which genre has highest number of more than 4 rating across entire Dataset
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4873749021654053/3608940803493665/4555382193918971/latest.html
+![pie](https://user-images.githubusercontent.com/20026958/115122416-80a3c900-9fd5-11eb-9513-b933919a1755.png)
 
 2- Number of movies for each genre
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4873749021654053/3608940803493665/4555382193918971/latest.html
+![genres](https://user-images.githubusercontent.com/20026958/115122424-87cad700-9fd5-11eb-914a-b6bfd7c22ac0.png)
 
 3- Number of ratings (2,3,4,5 etc.)
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4873749021654053/3608940803493665/4555382193918971/latest.html
-
+![ratings](https://user-images.githubusercontent.com/20026958/115122428-8b5e5e00-9fd5-11eb-91dc-69d47b5b4768.png)
 

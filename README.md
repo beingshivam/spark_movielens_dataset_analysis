@@ -11,7 +11,7 @@ Here in the repository I have attached the computation part of the pipline, the 
 ## Tech Stack Used:
 
 - Storage: Azure Datalake Storage
-- ETL/Data pipline: Azure Datafactory
+- ETL/Data pipeline: Azure Datafactory
 - Computation: Azure Databricks/ Databricks community Edition
 
 ## Steps Involved:

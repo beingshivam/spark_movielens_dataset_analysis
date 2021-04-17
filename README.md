@@ -1,4 +1,4 @@
-# End to End Datapipline (Movie Recommendation System)
+# End to End Datapipeline (Movie Recommendation System)
 
 A movie recommendation system is used by top streaming services like Netflix, Amazon Prime, Hulu, Hotstar etc to recommend movies to their users based on historical viewing patterns.
 
